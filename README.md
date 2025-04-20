@@ -13,7 +13,7 @@ This project analyzes real-time financial news from Twitter using Natural Langua
 ## Technologies & Tools Used
 - Programming language: Python
 - Libraries: Pandas, Matplotlib, Seaborn
-- Data storage: MongoDB or CSV files
+- Data storage: CSV files
 
 ## Features
 - Real-time Twitter data collection: Collects tweets related to financial news and market trends.
